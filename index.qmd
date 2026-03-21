@@ -1,5 +1,5 @@
 ---
-title: "Sam Welch's Blog"
+title: "Sam A. Welch's Blog"
 listing:
   contents: posts
   feed: true

@@ -1,12 +1,8 @@
 ---
-title: "Welcome To My Blog"
-author: "Tristan O'Malley"
-date: "2026-03-13"
+title: "Is there any sight more intoxicating than a blank page?"
+author: "SAW"
+date: "2026-03-21"
 categories: [news]
 ---
 
-This is the first post in a Quarto blog. Welcome!
-
-![](thumbnail.jpg)
-
-Since this post doesn't specify an explicit `image`, the first image in the post will be used in the listing page of posts.
+So, a blog. I'm a pretty negative sort of person, but I like the idea of having a technically public space where I can share my thoughts and opinions rather than letting them rattle around in my head. If no-body reads it, then all the better! I don't doubt that some of them are stupid. But I hope the process of putting them out there will be a cathartic one. 

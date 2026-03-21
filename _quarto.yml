@@ -4,15 +4,13 @@ project:
 
 website:
   description: "A blog built with Quarto"
-  site-url: https://your-website-url.example.com # you must change this appropriately for RSS feeds to work properly
+  site-url: https://sa.mwel.ch # you must change this appropriately for RSS feeds to work properly
   title: "Sam Welch's Blog"
   navbar:
     right:
       - about.qmd
       - icon: github
-        href: https://github.com/
-      - icon: twitter
-        href: https://twitter.com
+        href: https://github.com/samawelch/saw-quarto-blog/
 format:
   html:
     theme:
